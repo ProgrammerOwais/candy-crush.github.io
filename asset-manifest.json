@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/candy-crush.github.io/static/css/main.5717db0d.css",
+    "main.js": "/candy-crush.github.io/static/js/main.9b38c548.js",
+    "static/media/bg-sound.mp3": "/candy-crush.github.io/static/media/bg-sound.aa71127056f7942f8f6c.mp3",
+    "static/media/bg.png": "/candy-crush.github.io/static/media/bg.aeb15b33515b769561a2.png",
+    "static/media/purple-candy.png": "/candy-crush.github.io/static/media/purple-candy.ae25b8a55e061a50346f.png",
+    "static/media/blue-candy.png": "/candy-crush.github.io/static/media/blue-candy.73120c156936a4206714.png",
+    "static/media/red-candy.png": "/candy-crush.github.io/static/media/red-candy.3658b37c743115db2a9a.png",
+    "static/media/orange-candy.png": "/candy-crush.github.io/static/media/orange-candy.f106b2cdd163575a7c68.png",
+    "static/media/yellow-candy.png": "/candy-crush.github.io/static/media/yellow-candy.a3d87a9b362b5f969133.png",
+    "static/media/green-candy.png": "/candy-crush.github.io/static/media/green-candy.599f70161bdb3cadac66.png",
+    "static/media/pro-candy1.png": "/candy-crush.github.io/static/media/pro-candy1.d8492b47f995263d2e8b.png",
+    "static/media/pro-candy2.png": "/candy-crush.github.io/static/media/pro-candy2.0d60e4eba26eb457b5cd.png",
+    "static/media/win.mp3": "/candy-crush.github.io/static/media/win.39e10f2b455dad7fc6ce.mp3",
+    "static/media/blank.png": "/candy-crush.github.io/static/media/blank.fbcb91799ceba75b2e3a.png",
+    "static/media/lose.mp3": "/candy-crush.github.io/static/media/lose.a960d099f87890d13368.mp3",
+    "static/media/score.mp3": "/candy-crush.github.io/static/media/score.c70f5819adecc108a7e1.mp3",
+    "static/media/sugar-crush.mp3": "/candy-crush.github.io/static/media/sugar-crush.802b293d9f245d39dc42.mp3",
+    "static/media/delicious.mp3": "/candy-crush.github.io/static/media/delicious.b753121878d42f702a03.mp3",
+    "static/media/sweet.mp3": "/candy-crush.github.io/static/media/sweet.14bc252169d82b31d67d.mp3",
+    "static/media/tasty.mp3": "/candy-crush.github.io/static/media/tasty.16cbe2868b500138d37f.mp3",
+    "index.html": "/candy-crush.github.io/index.html",
+    "main.5717db0d.css.map": "/candy-crush.github.io/static/css/main.5717db0d.css.map",
+    "main.9b38c548.js.map": "/candy-crush.github.io/static/js/main.9b38c548.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5717db0d.css",
+    "static/js/main.9b38c548.js"
+  ]
+}
